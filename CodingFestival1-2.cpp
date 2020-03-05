@@ -1,4 +1,4 @@
-// Mekhi Woods 2.26.20
+// Mekhi 2.26.20
 #include <iostream>
 using namespace std;
 

@@ -1,6 +1,6 @@
 // t = age, D = atoms of daughter, P = atoms of parent, lam = decay constant
 // Decay Calulations
-// 3/2/20 Mekhi Woods
+// 3/2/20 Mekhi
 #include <iostream>
 #include <cmath>
 using namespace std;
